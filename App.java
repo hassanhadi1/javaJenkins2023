@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args){
-        System.out.println("Bonjour, World Devops !");
+        System.out.println("Bonjour, World Devops test !");
         Additionnner(1, 2);
     }
 
